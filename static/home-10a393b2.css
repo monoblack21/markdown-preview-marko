@@ -1,0 +1,14 @@
+.top{
+     width:80%;
+     margin: auto;
+     background-color: #b5ccf2;
+     border-radius: 5px;
+   }
+   .preview, textarea{
+     width: 40%;
+     display: inline-block;
+   }
+
+   textarea{
+     line-height: 400px;
+   }
